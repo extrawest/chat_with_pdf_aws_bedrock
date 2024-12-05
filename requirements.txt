@@ -1,0 +1,11 @@
+boto3
+awscli
+python-dotenv
+requests
+langchain
+openai
+tiktoken
+streamlit
+faiss-cpu
+langchain-community
+langchain-aws
